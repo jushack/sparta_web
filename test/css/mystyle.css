@@ -1,0 +1,29 @@
+* {
+  font-family: "Jua", sans-serif; //구글폰트 전체에 적용
+}
+.myPage {
+  width: 300px;
+  height: 200px;
+  color: white;
+  text-align: center;
+
+  background-image: url("https://mblogthumb-phinf.pstatic.net/MjAyMDA5MTFfNTAg/MDAxNTk5NzgzNTYzNjY0.f-PVbkC_So4KOCb1q_X1U-VbH1JVSGBDQcfPgugvraMg.1QPPwHBh0MvIVmGYSgWopxNLOqm5cGk0dtbVd7OZ9vMg.JPEG.daffodil1234/IMG_5663.JPG?type=w800");
+  background-size: cover;
+  background-position: center;
+
+  border-radius: 10px;
+
+  padding-top: 20px;
+}
+
+.myButton {
+  padding: 5px;
+  width: 100px;
+  margin: auto;
+  display: block; //강제로 변환시켜줌
+}
+
+.wrap {
+  width: 300px;
+  margin: auto;
+}
