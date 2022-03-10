@@ -16,3 +16,12 @@
   padding: 30px;
   margin: 0px auto 30px auto;
 }
+
+.jumbotron {
+  padding-left: 30px;
+}
+
+.wrap {
+  width: 1000px;
+  margin: auto;
+}
