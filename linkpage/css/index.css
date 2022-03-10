@@ -5,3 +5,14 @@
 .card-title {
   color: skyblue;
 }
+
+.posting-box {
+  width: 500px;
+  margin: auto;
+
+  border: solid 2px;
+  border-radius: 10px;
+
+  padding: 30px;
+  margin: 0px auto 30px auto;
+}
